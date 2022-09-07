@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ebasfi</string>
+    <string name="don_t_have_any_account">Don\'t Have Any Account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="please_enter_verification_code">Please Enter Verification Code</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="verification">Verification</string>
+    <string name="account">Account</string>
+    <string name="verified">Verified</string>
+    <string name="tap_to_next">Tap to Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_user">Rifqi Padi Siliwangi</string>
+    <string name="email_user">rifqipadisiliwangi@gmail.com</string>
+</resources>
